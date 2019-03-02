@@ -1,6 +1,7 @@
 const Node = require('./Node');
 
 var course = require('./course.json');
+
 var course_arr = Object.keys(course);
 
 var graph = [];
